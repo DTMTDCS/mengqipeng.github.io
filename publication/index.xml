@@ -6,25 +6,25 @@
     <description>Recent content in Publications on Mengqi Peng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Mengqi Peng</copyright>
+    <copyright>&amp;copy; 2018 Mengqi Peng</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>2017 Autocomplete 3D Sculpting</title>
-      <link>https://mengqipeng.github.io/publication/2017autocomplete_3d_sculpting/</link>
-      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      <title>Autocomplete 3D Sculpting, SIGGRAPH 2018 (paper coming soon)</title>
+      <link>https://mengqipeng.github.io/publication/a3s/</link>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mengqipeng.github.io/publication/2017autocomplete_3d_sculpting/</guid>
+      <guid>https://mengqipeng.github.io/publication/a3s/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2014 Multi-swarm Particle Swarm Optimization with Multiple Learning Strategies</title>
-      <link>https://mengqipeng.github.io/publication/2014gecco/</link>
+      <title>Multi-swarm Particle Swarm Optimization with Multiple Learning Strategies</title>
+      <link>https://mengqipeng.github.io/publication/mpso/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://mengqipeng.github.io/publication/2014gecco/</guid>
+      <guid>https://mengqipeng.github.io/publication/mpso/</guid>
       <description></description>
     </item>
     
