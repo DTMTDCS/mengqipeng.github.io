@@ -8,7 +8,75 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Mengqi Peng</copyright>
     <lastBuildDate>Fri, 20 Apr 2018 06:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://mengqipeng.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mengqipeng.github.io/home/about/</link>
+      <pubDate>Fri, 20 Apr 2018 06:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/about/</guid>
+      <description>Biography Hello! This is Mengqi Peng. Currently, I am a PhD student in HKU, my advisor is Dr. Li-Yi Wei. I received my bachelor degree from SYSU (Sun Yat-sen University) in 2015. You can find my cv here.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://mengqipeng.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://mengqipeng.github.io/home/experience/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/experience/</guid>
+      <description>I like to experience various working cultures with different cool guys:
+ Sep/2017-Dec/2017 Research Intern at Adobe Research (Seattle) June/2015-August/2015 R&amp;amp;D Summer Intern at ZWCAD Software July/2014-August/2014 Research Summer Intern at HKU  </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mengqipeng.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/teaching/</guid>
+      <description>I am a teaching assistant for the following courses at HKU:
+ Spring 2018 CS-2396: Object-Oriented Programming and Java Autumn 2016 CS-3314: Machine Learning Autumn 2015 CS-1117: Computer Programming  </description>
+    </item>
+    
+    <item>
+      <title>Honors</title>
+      <link>https://mengqipeng.github.io/home/honors/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/honors/</guid>
+      <description> 2015-2019 HKU Postgraduate Scholarship 2015 Outstanding Undergraduate, Sun Yat-sen University 2014 First Prize, Mathematical Contest in Modeling 2014 Google Anita Borg Scholarship 2011-2014 First class scholarship, Sun Yat-sen University  </description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://mengqipeng.github.io/home/personal/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/personal/</guid>
+      <description>During my spare time, I have board interests on many cool and fun stuff:
+ Basketball, Tennis, Running, and Hiking Photography Reading, Documentary Films, Movies Calligraphy Pop Music and Fingerstyle  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mengqipeng.github.io/home/contact/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mengqipeng.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
